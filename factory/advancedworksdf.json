@@ -1,0 +1,15 @@
+{
+	"name": "advancedworksdf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c56f28a8-93e8-4dd3-9862-c1fda906e0c6",
+		"tenantId": "fd09306d-78ae-4757-8d52-09a0ac134e27"
+	}
+}
